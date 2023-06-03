@@ -1,0 +1,181 @@
+body{
+    
+    background-image: url(eu.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center center;
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items:  center;
+    padding: 16px;
+}
+ 
+a {
+    color: white;
+   
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(167, 99, 245);
+
+
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+footer img{
+    width: 20px;
+    height: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 2px;
+
+}
+
+.container{
+    padding: 0px 50px;
+    
+}
+
+nav a:hover  {
+    color: rgb(167, 99, 245);
+}
+
+footer p:hover{
+    color:rgb(167, 99, 245);
+}
+
+dsadh4 {
+    text-align:center ;
+    }
+
+.gif{
+    text-align: center;
+
+}
+.credit{
+    background: rgba(0 ,0 ,0 ,0.75);
+    font-size: 1.3em;
+    color: whitesmoke;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+.header{
+    background-color: black;
+    height: 30px;
+    width: max-content;
+
+}
+
+h3{
+    color:rgb(167, 99, 245);
+    
+}
+
+h1{
+    color: rgb(167, 99, 245) ;
+}
+
+p{
+    font-size: medium;
+    color: white;
+}
+
+h2{
+    color: white;
+}
+details{
+background-color: rgba(255, 255, 255, 0.45);
+height: 100px;
+width: 120px;
+border-radius: 0.5em;
+padding: 20px;
+box-shadow: 0 15px 30px rgba(0 ,0 ,0 ,0.99);
+
+}
+small{
+    color: rgb(167, 99, 245);
+    font-size: larger;
+    
+}
+
+summary{
+    color: rgb(167, 99, 245);
+}
+.ml-4{
+    color: rgb(167, 99, 245);
+    
+
+}
+.ml-4 a:hover{
+    color: white;
+}
+.ml-4 a{
+    color:rgb(167, 99, 245);
+    font-style: italic;
+}
+.hlt-5{
+background: purple ;
+height: max-content;
+width:auto;
+padding: 20px;
+}
+li{
+  padding:0   20px;
+}
+
+
+  
+  nav{
+    background-color: rgba(0 ,0 ,0 ,0.80);
+    padding: 40px 20px;
+    justify-content: space-between;
+    
+    
+  }
+
+  nav, ul{
+    display: flex;
+    flex-direction: row;
+  }
+  .arthur{
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+
+  li:hover, h1:hover{
+    cursor: pointer;
+    opacity: 0,8;
+    background-color: rgba(167, 99, 245,0.2);
+  }
+  .logo{
+    width: 10px;
+    height: 10px;
+    padding-top: 10px;
+  }
